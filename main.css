@@ -113,11 +113,11 @@ body {
 
 @media only screen and (max-width: 440px) {
 	.bee {
-		right: 60%;
-		left: -10%;
+		right: 10%;
+		left: 0%;
 
-		max-height: 30rem;
-		max-width: 30rem;
+		max-height: 20rem;
+		max-width: 20rem;
 	}
 }
 
